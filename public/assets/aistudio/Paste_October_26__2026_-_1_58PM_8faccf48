@@ -1,0 +1,663 @@
+➡️➡️ WEBSITE MASTER PROMPT ⬅️⬅️
+Complete Website Development, Research, Design, Content, SEO, Images, Functionality & Quality Assurance
+You are acting as a senior full-stack developer, UI/UX designer, SEO specialist, technical SEO auditor, content strategist, factual researcher, accessibility specialist, image researcher, conversion optimization expert, and quality assurance engineer.
+Your job is to build a COMPLETE, PROFESSIONAL, PRODUCTION-READY WEBSITE using the website information and homepage design reference I provide below.
+This is not a request to create only a homepage, a design mockup, a landing page, or a list of recommendations. You must build the entire website, including all required pages, complete content, original images, functional features, technical SEO, internal linking, responsive layouts, and testing.
+Do not skip any requirement in this prompt. Do not silently reduce the scope. Do not replace real implementation with explanations, placeholder content, or promises.
+
+1. WEBSITE INFORMATION — MANUAL INPUT REQUIRED
+Use the following information as the primary source for identifying the website's niche, purpose, audience, topics, and required features.
+🟨 WEBSITE URL: https://highsoftware99.org/
+🟨 WEBSITE DESCRIPTION: HighSoftware99 provides SEO audits, keyword research, website optimization, digital marketing, and web development services to help businesses grow online.
+🟨 MAIN HOMEPAGE TITLE: SEO, Digital Marketing and Web Development | HighSoftware99
+🟨 MAIN CATEGORIES: SEO Services, Digital Marketing, Web Development, Website Optimization, Analytics and Tracking
+🟨 REFERENCE HOMEPAGE DESIGN: Attached
+🟨Must Use these Keywords in content correctly:
+- SEO by HighSoftware99
+- SEO Instant Appear HighSoftware99
+The website URL, website description, homepage title, and main categories are the primary inputs for determining the niche. The attached screenshot is the design reference.
+Do not unnecessarily ask me to provide a separate niche name when these details are sufficient.
+Rules for understanding the niche
+Examine all the provided information before writing content or building pages.
+Research the website URL and its publicly accessible content when access is available.
+Determine the most accurate niche from the four website information fields.
+Understand the intended purpose, target audience, content expectations, relevant terminology, and essential features of that niche.
+Treat the homepage screenshot as the reference for the desired visual design, not as proof of factual claims about the business.
+Never invent facts about the website, its ownership, products, services, credentials, pricing, location, or business operations.
+If information is ambiguous, make the most reasonable evidence-based decision and document important assumptions. Ask questions only when a genuinely essential decision cannot reasonably be resolved.
+If a website URL or reference is inaccessible, do not pretend that you inspected it. Continue using the available information and disclose the limitation.
+The finished website must match the identified niche in its design, content, navigation, images, features, terminology, and overall user experience.
+2. YOUR MAIN OBJECTIVE
+Build the full website from beginning to end.
+The final result must be a real, coherent website that looks professionally designed and developed by an experienced human team.
+It must include:
+Complete and consistent branding.
+A fully developed homepage based on my reference screenshot.
+All essential website pages.
+All relevant category and detail pages.
+A complete blog with 15–20 original articles.
+Original, relevant images for every article.
+Relevant images for other pages where appropriate.
+Original image-based branding and logo.
+SEO-friendly writing and complete technical SEO.
+Functional buttons, navigation, menus, links, forms, filters, and other relevant features.
+Responsive layouts for desktop, tablet, and mobile.
+Privacy, accessibility, security, performance, and usability checks.
+A thorough final quality assurance audit.
+Do not stop after generating the homepage. Do not stop after creating the site structure. Do not stop after writing the articles.
+Continue through implementation, testing, error correction, and final verification of the entire website.
+3. REFERENCE DESIGN ANALYSIS
+Before building the website, carefully examine the attached homepage screenshot.
+Identify and document its:
+Main and secondary colors.
+Background colors and visual contrast.
+Typography styles and hierarchy.
+Font sizes, font weights, and line heights.
+Header and navigation layout.
+Logo placement and proportions.
+Hero section composition.
+Image placement, dimensions, and visual treatment.
+Button shapes, sizes, colors, and hover states.
+Card layouts and border treatments.
+Content width and spacing.
+Section arrangements and visual hierarchy.
+Background patterns, shadows, borders, and decorative elements.
+Footer structure.
+Desktop, tablet, and mobile layout patterns where visible.
+Use those observations to create a coherent design system for the entire website.
+Mandatory design rules
+The new website must follow the reference design's overall visual language and color combination.
+Extend the design consistently across every page, rather than applying it only to the homepage.
+Make sensible design adaptations for pages that require different layouts, such as articles, category archives, product pages, contact forms, and legal pages.
+Do not force every section into the same layout when a different layout would be more appropriate.
+Create a distinctive, polished, credible brand identity.
+Avoid generic AI-generated layouts, excessive gradients, unnecessary glassmorphism, repetitive cards, oversized whitespace, inconsistent spacing, and decorative elements without a purpose.
+Do not copy another site's logo, proprietary artwork, or protected visual assets without permission. Reproduce the desired design language using original implementation and properly licensed assets.
+Maintain readable typography, clear hierarchy, appropriate whitespace, and strong visual balance.
+Ensure the website looks complete and professional even on small mobile screens.
+Test long titles, large images, tables, forms, and article layouts to prevent overflow or broken sections.
+The homepage screenshot must guide the complete website design, while the content and functionality must be tailored to the website's actual niche.
+4. LOGO AND BRAND ASSETS
+Create and use a professional, original logo that suits the website's niche and brand identity.
+Logo requirements
+Use an actual image file as the website logo, preferably a high-quality transparent PNG or an optimized WebP where appropriate.
+Do not create the logo merely by typing the website name.
+Do not use an SVG icon, a generic icon, or a CSS-drawn shape as a substitute for the actual brand logo.
+Design an original symbol and wordmark that look intentional, professional, and memorable.
+Use suitable colors, proportions, typography, and spacing.
+Make the logo readable at normal header size and on mobile devices.
+Create suitable light-background or dark-background variants only when necessary.
+Preserve transparency where appropriate.
+Export and optimize the logo without making it blurry or pixelated.
+Use the correct logo consistently in the header, footer where appropriate, and site identity assets.
+Generate favicon assets from the original logo and verify that they remain recognizable at small sizes.
+Do not use a third party's logo as my website's logo.
+Store the logo and related assets in the project's appropriate asset directory. Do not leave the final website dependent on a temporary preview image.
+The logo must feel like a real brand identity, not a random image added to fill a space.
+5. COMPLETE WEBSITE PAGE STRUCTURE
+Create every required page based on the website's niche.
+The following core pages are mandatory unless a genuine technical or platform limitation makes a particular route inapplicable.
+A. Home
+Build a complete homepage, including the appropriate:
+Header and Navigation: Header clean, simple, responsive aur mobile-friendly hona chahiye. Menu items sirf zaroorat ke mutabiq rakho. Agar menu items zyada hon, to relevant items ko dropdowns mein organize karo, lekin important pages ko main navigation mein hi rakho. Header mein unnecessary menu items ki wajah se design ya responsiveness kharab nahi honi chahiye.
+Hero section.
+Primary headline and supporting text.
+Main call to action.
+Niche-relevant content and feature sections.
+Category, product, service, or resource sections as appropriate.
+Supporting images.
+Relevant internal links.
+Trust-building information that can be verified.
+Secondary calls to action where useful.
+Footer and necessary navigation links.
+Do not fill the homepage with generic filler sections. Every section must have a clear purpose.
+B. About
+Create an About page explaining the website's actual purpose, mission, subject matter, audience, and relevant editorial or business approach.
+Do not invent an owner biography, team members, company history, credentials, awards, years of experience, or business achievements.
+Use only supported information.
+C. Contact
+Create a professional, useful, fully responsive contact page.
+MANDATORY CONTACT EMAIL: collab.topagency@gmail.com
+Follow these contact restrictions throughout the entire website:
+Use the exact email address provided above wherever the contact email is needed.
+Do not invent or display any phone number.
+Do not display social media icons anywhere on the website.
+Do not invent physical addresses, office locations, or additional contact details.
+Do not add fake contact information to make the page look complete.
+Make the email address clickable using a correct mailto: link.
+If you include a contact form, make sure it has proper validation, accessible labels, meaningful success and error feedback, spam protection appropriate to the implementation, and a real submission mechanism.
+If actual email delivery requires credentials or a third-party integration that is unavailable, do not pretend that the form works. Provide a genuinely usable email fallback and clearly document what additional configuration is needed.
+Never claim that a message was delivered unless delivery has actually been confirmed.
+D. Privacy Policy
+Write a website-specific Privacy Policy based on the website's actual behavior.
+Address applicable topics such as:
+Information collected.
+Information users voluntarily submit.
+Contact-form processing.
+Cookies and tracking, if used.
+Analytics and third-party services, if used.
+Advertising and affiliate tracking, if applicable.
+Data retention and security.
+Relevant user rights.
+Contact information for privacy questions.
+Do not falsely claim that the website collects no data if its implementation actually collects data.
+Do not claim compliance with a law or regulation without establishing that the claim is applicable and supported.
+E. Terms and Conditions
+Create suitable Terms and Conditions for the website's actual purpose, features, and operations.
+Include relevant provisions concerning website use, intellectual property, user responsibilities, limitations of liability, external links, and other applicable matters.
+Add niche-specific terms when necessary.
+Do not copy generic legal text blindly or fabricate a governing jurisdiction, registration number, business identity, or legal status.
+Where applicable law or jurisdiction cannot be determined, clearly document any legal assumptions and recommend appropriate professional review rather than pretending the page guarantees legal compliance.
+F. Blog
+Create a complete blog system with:
+Blog listing page.
+Individual article detail pages.
+Relevant category archives.
+Article-specific metadata.
+Correct featured images.
+Readable article typography.
+Breadcrumbs where appropriate.
+Relevant internal links.
+Related articles based on actual topics.
+Sensible pagination or another suitable navigation method.
+Proper canonical URLs.
+Appropriate structured data.
+Every article must have a real, accessible route, and every listing, category, pagination control, and article link must work correctly.
+6. ADDITIONAL PAGES REQUIRED BY THE NICHE
+Do not assume the six core pages are enough for every website.
+Research the niche and determine what else is essential for a complete, useful website.
+Examples include:
+Product detail pages.
+Product category pages.
+Service detail pages.
+Pricing pages.
+FAQ pages.
+Tutorials and resource libraries.
+Search results pages.
+Comparison pages.
+Tool or calculator pages.
+Download pages.
+Affiliate disclosure pages.
+Editorial policy pages.
+Cookie policy or cookie settings, when appropriate.
+Returns, shipping, and refund pages for relevant shops.
+Account, cart, checkout, and order-status pages where applicable.
+Author or archive pages where useful.
+A branded 404 page.
+Appropriate legal, safety, and disclaimer pages.
+These are examples, not a requirement to add every page to every website.
+Create each additional page that the identified niche genuinely needs, and omit irrelevant pages.
+Do not add empty pages just to increase the page count.
+Every page must contain relevant, original information and have a clear purpose.
+If the site requires user accounts, payments, purchases, downloads, bookings, or other advanced functions, implement them using appropriate real functionality and secure integrations. If required access credentials are unavailable, document the limitation clearly and never simulate successful transactions or access.
+7. FULL BLOG: 15–20 ORIGINAL ARTICLES
+This is one of the most important requirements.
+Create 15–20 complete, high-quality, original blog articles that directly match the website's actual niche and main categories.
+Aim for 20 complete articles when the available environment and research support that scope. Never reduce the number below 15 merely to finish faster.
+Do not create 15 article titles and leave their content unwritten.
+Do not create placeholder articles, empty article templates, duplicated paragraphs, repeated outlines, or thin pages that only appear complete.
+Mandatory word count
+EACH ARTICLE MUST CONTAIN 1,500–2,500 WORDS OF ACTUAL ARTICLE BODY CONTENT.
+This word count applies individually to each article, not to the entire blog.
+Before considering an article complete:
+Finish writing the full article.
+Calculate its actual body word count using an available word-count tool or script.
+Confirm the count is between 1,500 and 2,500 words.
+Expand, edit, or remove unnecessary material as necessary.
+Recalculate the word count after revisions.
+Record the verified word count in the final audit report.
+Exclude metadata, navigation, code, and unrelated page text from the article-body count. Do not count hidden text or repeated filler to reach the minimum.
+Article research and originality
+Each article must:
+Focus on a distinct, valuable topic relevant to the website's niche.
+Match the appropriate main category.
+Answer the reader's actual search intent.
+Be thoroughly researched using reliable sources.
+Use accurate, current facts and terminology.
+Be written in simple, natural, human-readable English.
+Provide meaningful explanations, practical details, useful examples, and original analysis.
+Have its own logical structure and appropriate headings.
+Avoid unnecessary repetition, generic introductions, keyword stuffing, and empty conclusions.
+Avoid copying other articles or rewriting competitors paragraph by paragraph.
+Avoid fabricated facts, statistics, dates, quotations, expert statements, and sources.
+Include relevant external references when factual claims require verification.
+Use descriptive links that help readers understand the linked resource.
+Include internal links to genuinely relevant pages and other articles on the website.
+Avoid claims that the available evidence cannot support.
+Use a natural editorial style with varied sentence structures, useful details, and clear explanations. Do not make all articles follow identical paragraph patterns or repetitive AI-style wording.
+Current information requirements
+Use the current date at the time of execution when assessing whether information is up to date.
+For information that can change, including laws, prices, software features, product specifications, market conditions, statistics, and official procedures:
+Verify the information using current, reliable sources.
+Prefer official documentation, primary sources, established research institutions, and recognized authoritative publications where appropriate.
+Check publication dates and the dates on which the underlying facts apply.
+Avoid relying on outdated sources for current claims.
+Include appropriate source links and reference dates where useful.
+Never invent an update date to make an article appear current.
+Never label an article "latest" or "updated" unless the claim is justified.
+If browsing or source access is unavailable, disclose the limitation instead of pretending to have performed current research.
+Do not promise that search engines will rank the articles. Optimize them according to sound SEO practices without making ranking guarantees.
+Article SEO requirements
+For each article, create:
+One clear, descriptive H1.
+A unique SEO title.
+A unique meta description.
+A short, readable, descriptive URL slug.
+A clear primary search intent.
+A relevant primary keyword and supporting search terms.
+An appropriate H2/H3 heading structure.
+A useful introduction that addresses the reader's need.
+Relevant internal links.
+Appropriate, authoritative external links where necessary.
+A relevant original featured image.
+Descriptive image alternative text.
+Relevant categories and tags only when useful.
+Breadcrumbs where suitable.
+Correct canonical metadata.
+Accurate Article or BlogPosting structured data when appropriate.
+Use keywords naturally. Do not repeat keywords excessively just to meet an arbitrary keyword density.
+Make every title, meta description, slug, and article genuinely distinct. Do not generate multiple articles that answer essentially the same search query without a clear reason.
+8. A UNIQUE IMAGE FOR EVERY ARTICLE
+EVERY ARTICLE MUST HAVE ITS OWN ORIGINAL-TO-THAT-ARTICLE, RELEVANT FEATURED IMAGE.
+The image must be selected or created specifically for that article's subject.
+Image sourcing requirements
+Research and select a relevant image for every article.
+Use reputable free-stock image sources, such as Unsplash, Pexels, or Pixabay, when their available licenses permit the intended use.
+Other reputable sources may be used when they provide appropriate permission or a suitable license.
+Verify the specific image's applicable license and any attribution requirements before publishing it.
+Do not assume that every image found on Google Images is free to use.
+Do not use watermarked images, stolen artwork, unauthorized brand assets, or images whose usage rights cannot be established.
+Do not download an image merely because its thumbnail looks relevant. Verify that the actual image matches the intended topic.
+Keep a record of each image's source URL, original page, applicable license, and attribution requirements where relevant.
+Do not use the same generic image for multiple articles just to save time.
+Do not use a misleading image that depicts something the article does not discuss.
+Where appropriate and feasible, download permitted assets into the project's own image directory instead of relying on unstable hotlinks.
+If an image has an attribution requirement, satisfy it.
+Image quality and optimization
+Use suitable dimensions and aspect ratios.
+Preserve visual quality.
+Optimize file size.
+Use modern image formats such as WebP or AVIF when supported.
+Preserve transparency in assets that require it.
+Provide meaningful alt text.
+Avoid unnecessary loading of full-size images on small screens.
+Use lazy loading for appropriate below-the-fold images.
+Reserve image dimensions to minimize layout shifts.
+Do not distort images or crop away essential subject matter.
+Apply the same licensing and relevance requirements to the homepage, About page, category pages, service pages, and any other page containing images.
+The logo must be original branding, not a random stock image.
+9. CONTENT FOR ALL OTHER PAGES
+Write complete content for every required page, not just the blog articles.
+All website copy must be:
+Written in simple, understandable English.
+Natural and human-readable.
+Original and specific to the website.
+Helpful for the intended audience.
+Consistent with the actual niche.
+Free from obvious grammar, spelling, punctuation, and formatting errors.
+Accurate according to available evidence.
+Structured for readability and accessibility.
+Optimized for relevant search intent.
+Free from unnecessary keyword repetition and empty marketing claims.
+Give each page its own purpose and useful information.
+Use appropriate H1, H2, and H3 headings, concise paragraphs, lists, tables, or step-by-step instructions where they genuinely improve understanding.
+Do not artificially make Privacy Policy, Terms and Conditions, or other legal pages 1,500–2,500 words just to match the blog article requirement. Their length should reflect the site's actual needs.
+Do not invent customer reviews, testimonials, user statistics, trust badges, awards, certifications, professional qualifications, success stories, or company achievements.
+Never create fake people or false claims to make the website seem more credible.
+The entire website must read as though it was thoughtfully prepared by a knowledgeable editorial and development team—not assembled from generic AI-generated filler.
+10. INTERNAL LINKING AND NAVIGATION
+Create a coherent internal linking structure across the complete website.
+Requirements:
+Every important page must be reachable through sensible navigation or relevant internal links.
+Link articles to relevant categories and related pages.
+Link related articles when a genuine contextual relationship exists.
+Link important service or product pages from relevant sections.
+Use descriptive anchor text.
+Ensure breadcrumbs point to the correct parent pages.
+Ensure the logo links to the correct homepage.
+Make all header and footer links point to valid destinations.
+Make pagination and category filters work correctly.
+Make search functionality return real relevant results if a site search feature is provided.
+Avoid broken, empty, circular, or irrelevant links.
+Avoid linking every article to the same unrelated page.
+Avoid excessive internal links that reduce readability.
+Do not publish a button that appears clickable but has no useful action.
+If a feature is not required, do not include a fake interactive control simply for decoration.
+11. SEO: COMPLETE ON-PAGE AND TECHNICAL IMPLEMENTATION
+SEO must be implemented across the whole website, including every important page and every article.
+On-page SEO
+Implement:
+Unique page titles.
+Relevant meta descriptions.
+One clear primary H1 per page, with exceptions only where the framework or document structure requires otherwise.
+Logical H2 and H3 headings.
+Descriptive URLs.
+Relevant contextual internal links.
+Accurate image alt text.
+Appropriate image filenames.
+Canonical URLs.
+Open Graph metadata.
+Social-sharing metadata only where useful, without adding social media icons to the website UI.
+Breadcrumbs where suitable.
+Properly configured indexability.
+Niche-relevant, original content.
+Accurate structured data where eligible and supported by actual page content.
+Aim for descriptive titles of approximately 50–60 characters and meta descriptions of approximately 140–160 characters when suitable. Treat these as practical editorial targets, not inflexible rules.
+Avoid duplicate titles, duplicate descriptions, keyword stuffing, hidden SEO text, misleading content, and unnecessary tag pages.
+Technical SEO
+Check and implement the following where applicable:
+XML sitemap.
+Correct robots.txt.
+Correct canonical URLs.
+A sensible URL and route structure.
+HTTP status codes appropriate to each route.
+Appropriate redirects for existing URLs that genuinely need them.
+Correct 404 handling.
+Indexable public pages.
+No accidental blocking of important content.
+No accidental indexing of private, administrative, or non-public routes.
+Valid structured data.
+Working breadcrumbs.
+Appropriate pagination and category archive metadata.
+Correct handling of duplicate URLs and query parameters.
+Search Console-compatible sitemap structure.
+Never create a robots.txt rule that accidentally blocks the whole website or important assets.
+If the website is replacing an existing site, preserve valuable existing URLs where practical. If a URL must change, implement a suitable redirect only when supported by the site's structure and access permissions.
+Structured data
+Use only structured data that genuinely matches the page.
+Examples include Organization, WebSite, BreadcrumbList, Article, BlogPosting, Product, and other relevant schemas when applicable.
+Never invent review ratings, prices, availability, author credentials, business addresses, or other properties to make a schema look richer.
+Validate structured data with suitable tools when available and fix errors.
+Do not promise rich results or search rankings.
+12. RESPONSIVE DESIGN AND MOBILE EXPERIENCE
+THE ENTIRE WEBSITE MUST WORK PROPERLY ON DESKTOP, TABLET, AND MOBILE.
+Do not optimize only the desktop layout.
+Check representative narrow and wide screens.
+Verify that:
+The header and navigation work on mobile.
+Mobile menus open and close correctly.
+Text remains readable.
+Buttons have appropriate touch targets.
+Images scale and crop correctly.
+Hero sections remain visually balanced.
+The logo remains recognizable.
+Content does not overflow horizontally.
+Long headings wrap correctly.
+Forms are comfortable to use.
+Tables have a mobile-friendly presentation, such as controlled horizontal scrolling when appropriate.
+Article content remains easy to read.
+Cards do not become excessively narrow or stretched.
+Footer columns adapt correctly.
+Modals, dropdowns, filters, and other interactive components work on touch devices.
+No important content disappears at smaller widths.
+No layout breaks at intermediate viewport sizes.
+No unnecessary blank space or overlapping content appears.
+Use a mobile-first approach where appropriate, with responsive layouts and breakpoints suited to the actual design.
+Do not fix a mobile layout by breaking desktop or tablet layouts. Retest all major viewport sizes after CSS changes.
+13. FUNCTIONALITY — NO DUMMY FEATURES
+Every interactive element must perform its intended function.
+Test, as relevant:
+Navigation and dropdown menus.
+Mobile menu.
+Logo and homepage navigation.
+CTA buttons.
+Contact email links.
+Forms and validation.
+Search.
+Category filters.
+Pagination.
+Article links.
+Breadcrumbs.
+Product, service, booking, or comparison features relevant to the niche.
+Downloads, where required.
+Account and purchase functionality, where required and properly configured.
+Cookie controls or preferences, if implemented.
+Error messages and success states.
+404 navigation and recovery links.
+Any niche-specific calculator or other interactive tool.
+Use real data and real functionality where available.
+Do not add dummy buttons, fake testimonials, nonfunctional checkout flows, fake download links, hardcoded success messages, fabricated availability, or pretend API integrations.
+If an external integration requires an API key or account that is unavailable:
+Identify the missing dependency.
+Implement the supported parts securely.
+Store configuration through appropriate environment variables.
+Provide an .env.example with variable names but no real secrets.
+Document the remaining configuration.
+Never claim the integration has been tested end-to-end if it has not.
+Do not expose credentials, private keys, tokens, or secrets in client-side code or public repositories.
+Do not silently turn an essential feature into a nonfunctional mockup.
+14. ACCESSIBILITY AND USABILITY
+Build an accessible, comfortable user experience.
+Where applicable, implement:
+Semantic HTML.
+Properly associated form labels.
+Keyboard navigation.
+Visible focus indicators.
+Sufficient text/background contrast.
+Descriptive link text.
+Useful image alt text.
+Accessible menus and controls.
+Meaningful form errors.
+Clear button labels.
+Correct heading hierarchy.
+Appropriate ARIA attributes only when needed.
+Respect for reduced-motion preferences.
+Good readability and usable touch targets.
+Do not rely only on color to communicate important status information.
+Ensure that the website remains understandable and functional for users with different devices and accessibility needs.
+15. PERFORMANCE AND CODE QUALITY
+Build a maintainable, efficient website.
+Requirements:
+Inspect the existing project's files, framework, package manager, and configuration before making changes.
+If a project already exists, preserve its intended stack and working functionality wherever practical.
+Do not replace a working architecture without a compelling technical reason.
+If starting from an empty project, choose an appropriate, maintainable stack based on the actual requirements and deployment environment.
+Follow the conventions of the selected framework.
+Reuse sensible components.
+Avoid unnecessary dependencies.
+Remove unused code and assets where safe.
+Avoid duplicated page logic.
+Optimize images, fonts, and JavaScript.
+Avoid blocking rendering with unnecessary scripts.
+Use caching and lazy loading appropriately.
+Avoid layout shifts.
+Provide clear loading, empty, error, and success states for relevant components.
+Follow security best practices.
+Check console output and server errors during testing.
+Do not weaken security or validation just to make a demo work.
+Test the production build where the environment allows it. Fix build errors, lint errors, runtime exceptions, missing dependencies, and relevant warnings.
+Do not claim a build passed without running it or obtaining verifiable evidence that it passed.
+16. WORKFLOW — FOLLOW THESE STAGES IN ORDER
+Stage 1: Inspect and plan
+Study all provided website details and inspect the existing project and reference screenshot.
+Identify the niche, design system, target audience, page structure, required functions, technology constraints, and research needs.
+Make a detailed checklist of the implementation requirements.
+Stage 2: Research the niche
+Research the website's subject, important terminology, relevant search intent, necessary pages, current facts, and suitable article topics.
+Use reliable sources and current information when required.
+Prepare an article plan containing 15–20 distinct topics distributed across the relevant categories.
+Avoid topics that overlap excessively or introduce irrelevant content.
+Stage 3: Establish branding and design
+Create the image-based logo, favicon, theme, typography system, reusable components, and responsive design rules.
+Use the attached homepage screenshot to establish the visual foundation.
+Stage 4: Build the complete website structure
+Create all core pages, niche-specific pages, blog category pages, individual article routes, navigation, footer, error pages, and relevant technical routes.
+Do not leave routes empty.
+Stage 5: Write all website content
+Finish the content for every required page.
+Write all 15–20 full articles, with each article individually verified to contain 1,500–2,500 body words.
+Do not publish placeholder paragraphs or incomplete content.
+Stage 6: Source and implement images
+Create the original logo and find or generate appropriate, authorized images.
+Verify relevance and usage rights. Save and optimize assets appropriately.
+Give every blog article its own relevant featured image and add image assets to the correct pages.
+Record image-source and licensing information where appropriate.
+Stage 7: Implement SEO and functionality
+Implement page metadata, URLs, internal links, technical SEO, structured data, forms, navigation, search, filters, and other niche-specific features.
+Make every relevant CTA and interactive component functional.
+Stage 8: Test the website
+Run available build, lint, type-check, link-check, structured-data, accessibility, performance, and security checks.
+Inspect every page and fix detected issues.
+Test mobile, tablet, and desktop layouts.
+Test navigation and actual functionality, not just visual appearance.
+Stage 9: Conduct a final audit
+Use the checklists below.
+Revisit every failed item, correct the issue, and repeat the relevant tests.
+Do not silently omit unfinished work.
+Continue until all checks that can be performed in the available environment have been completed, or until a genuine external dependency prevents further verification.
+17. MANDATORY FINAL QUALITY ASSURANCE
+Before declaring the website complete, verify every category below.
+A. Page completeness
+Homepage is complete.
+About page is complete.
+Contact page is complete.
+Privacy Policy is complete.
+Terms and Conditions are complete.
+Blog listing page is complete.
+15–20 full blog articles exist.
+Every article has its own valid route.
+Relevant blog categories and archives work.
+Every essential niche-specific page exists.
+A proper 404 page exists.
+No required page is empty or incomplete.
+No placeholder text remains.
+B. Article quality
+Every article matches the actual niche.
+Each article provides distinct value.
+Each article contains 1,500–2,500 body words.
+The word count has been checked programmatically or with a reliable counting method.
+Facts requiring verification have been researched.
+Current facts use appropriate, reliable sources.
+Headlines, metadata, and slugs are unique.
+Internal links are relevant and functional.
+External references lead to the intended resources.
+No article contains fabricated facts or fake citations.
+No article consists of repeated filler or near-duplicate content.
+Grammar, spelling, headings, and readability have been reviewed.
+C. Images and branding
+An original image-based logo is implemented.
+The logo is not merely text, an icon, or an SVG substitute.
+Favicon assets are recognizable and implemented.
+Every article has a unique, relevant featured image.
+Other page images match their content.
+Usage rights are verified for sourced images.
+Required image attribution is included.
+No unauthorized or watermarked image is used.
+Image formats and dimensions are appropriate.
+Images are optimized without unacceptable quality loss.
+Alt text is meaningful and appropriate.
+D. Design and responsiveness
+The design follows the provided screenshot's visual direction.
+The same design system is applied consistently across pages.
+Desktop layouts are checked.
+Tablet layouts are checked.
+Mobile layouts are checked.
+Header and navigation work correctly.
+No important horizontal overflow remains.
+No overlapping text or images remain.
+Buttons and cards remain visually consistent.
+Typography is readable.
+No major blank spaces, clipping, or broken alignments remain.
+Loading and interaction states are visually coherent.
+E. Links and navigation
+Internal links resolve to the correct pages.
+Header navigation works.
+Footer navigation works.
+CTA buttons work.
+Article links work.
+Category links work.
+Breadcrumbs work.
+Pagination works.
+No unintended internal 404 links remain.
+External links have been checked where testing is possible.
+No placeholder URLs remain.
+No empty links or nonfunctional buttons remain.
+F. Contact and privacy
+The exact contact email is used: collab.topagency@gmail.com.
+No phone number is present.
+No social media icons appear anywhere on the website.
+No fake address or additional contact details appear.
+Email links use the correct address.
+Any contact form has a genuine supported submission mechanism or a clearly usable email fallback.
+Success messages are not shown falsely.
+The Privacy Policy matches actual data practices.
+Legal content does not contain fabricated business or jurisdiction details.
+G. SEO and technical quality
+Important pages have unique SEO titles and descriptions.
+Canonical URLs are correct.
+XML sitemap works.
+robots.txt works and does not unintentionally block important content.
+Important public pages are correctly indexable.
+Structured data is relevant and valid where tested.
+Heading structures are sensible.
+Image alt attributes are appropriate.
+No accidental duplicate metadata remains.
+No accidental broken routes remain.
+Production build passes where available.
+Relevant lint and type checks pass where available.
+No unresolved critical runtime errors remain.
+Forms and interactive features have been tested.
+No credentials or secrets are exposed.
+H. Final functional audit
+Open and inspect every important route.
+Check the actual rendered page, not just source files.
+Test the relevant user journeys from beginning to end. Verify forms, links, navigation, filters, and niche-specific functions.
+If automated tests pass but a visible page is broken, fix the visible problem.
+If a tool is unavailable or a test cannot be completed, clearly label that check as NOT VERIFIED instead of treating it as passed.
+Do not mark an item as passed merely because you wrote the code for it. Verify the outcome wherever possible.
+18. NON-NEGOTIABLE RESTRICTIONS
+The following restrictions apply to the entire project.
+Do not skip required pages.
+Do not skip the 15–20 full blog articles.
+Do not reduce an article below 1,500 words or above 2,500 words.
+Do not replace a full website with a homepage demo.
+Do not use placeholder content or fabricated information.
+Do not use images without a defensible basis for their usage rights.
+Do not copy another publisher's article.
+Do not invent statistics, awards, testimonials, team members, or business credentials.
+Do not create broken links or buttons that do nothing.
+Do not invent API functionality or claim untested integrations work.
+Do not use a text-only logo or generic SVG icon as the actual brand logo.
+Do not use any phone number.
+Do not display any social media icons anywhere.
+Do not replace factual research with assumptions.
+Do not sacrifice mobile responsiveness for desktop appearance.
+Do not sacrifice content quality to increase page count.
+Do not remove existing working functionality without a good reason.
+Do not claim tests passed when they were not performed.
+Do not leave known errors unresolved without documenting the reason.
+Do not stop merely because the homepage looks attractive.
+19. FINAL DELIVERY REPORT
+Once implementation and testing are complete, provide a concise but evidence-based report containing:
+Website overview
+Website URL or preview URL, if available.
+Technology stack used.
+Main pages and niche-specific pages created.
+Major features implemented.
+Article audit
+Total number of articles completed.
+Each article's title, route, category, and verified body word count.
+Confirmation that every article has its own relevant image.
+Any outstanding source-verification limitations.
+SEO audit
+Technical SEO features implemented.
+Sitemap and robots.txt status.
+Canonical and metadata status.
+Structured-data validation status, where tested.
+Functionality and testing
+Tests actually run.
+Build, lint, type-check, and link-check results where available.
+Devices or viewport sizes checked.
+Known errors, unverified items, and external dependencies.
+Outstanding issues
+List only real remaining issues, unavailable integrations, credentials still needed, or checks that could not be verified.
+Do not claim that there are zero errors unless the available checks and inspections support that conclusion.
+If a requirement cannot be completed because of an external limitation, explain precisely what is missing and what remains to be done. Do not disguise unfinished work as completion.
+FINAL EXECUTION INSTRUCTION
+Start by inspecting the supplied website details, reference screenshot, and project environment.
+Then carry out the complete workflow in order.
+Make practical decisions independently whenever the provided evidence is sufficient. Do not repeatedly ask me to approve ordinary implementation choices.
+Your priority is a complete, accurate, visually consistent, fully responsive, SEO-ready website—not merely a fast first draft.
+Build the actual website. Write the actual content. Source the actual images. Implement the real features. Test the results. Fix the errors. Verify the article word counts. Complete the final audit.
+Do not stop until you have completed the requested work as fully as the available tools and environment permit, and clearly disclose anything that genuinely could not be verified or completed.
+
